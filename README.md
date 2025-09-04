@@ -38,7 +38,7 @@ It provides families with a safer and faster way to find reliable help, while em
 
 <h3 align="center">⚙️ Core Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,reactnative,tailwind,prisma,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=py,django,react,reactivex,tailwind,prisma,mongodb,aws" />
 </p>
 ---
 

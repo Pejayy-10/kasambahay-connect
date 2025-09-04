@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://imgur.com/qK4znsa.png" alt="Kasambahay Connect Banner" width="100%">
+  <img src="banner.png" alt="Kasambahay Connect Banner"/>
 </p>
 
 <h1 align="center">🏠 Kasambahay Connect</h1>
@@ -34,11 +34,12 @@ It provides families with a safer and faster way to find reliable help, while em
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,laravel,express,mysql,postgresql,mongodb,firebase,aws" />
-</p>
+## 🛠️ Tech Stack  
 
+<h3 align="center">⚙️ Core Technologies</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,reactnative,tailwind,prisma,mongodb,aws" />
+</p>
 ---
 
 ## 🌍 Impact

@@ -40,6 +40,7 @@ It provides families with a safer and faster way to find reliable help, while em
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,django,react,reactivex,tailwind,prisma,mongodb,aws" />
 </p>
+
 ---
 
 ## 🌍 Impact
